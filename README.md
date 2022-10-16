@@ -1,4 +1,10 @@
-### Hi there 👋
+## 백엔드 개발자 조시언☺️ 
+
+세상에 널리 이로운 개발자가 되자!!  
+열심히 하겠습니다
+
+[![Josieon's github stats](https://github-readme-stats.vercel.app/api?username=josieon)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josieon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **josieon/josieon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
